@@ -1,0 +1,36 @@
+NEON - THIRD-PARTY NOTICES
+==========================
+
+Neon runs entirely on your computer. It includes the open models and
+libraries listed below, each under its own licence. By installing Neon you
+agree to these terms.
+
+LANGUAGE MODELS
+- Gemma 4 E4B and E2B (Google DeepMind), GGUF builds.
+  Gemma Terms of Use: https://ai.google.dev/gemma/terms
+  Gemma Prohibited Use Policy: https://ai.google.dev/gemma/prohibited_use_policy
+- Qwen3-0.6B, Qwen3.5-0.8B, Qwen2.5-Coder-1.5B-Instruct (Alibaba Qwen team).
+  Apache License 2.0.
+
+SPEECH
+- NVIDIA Parakeet TDT-CTC 110M and Parakeet TDT 0.6B v2 (speech recognition).
+  CC BY 4.0.
+- Piper voice en_US-lessac-medium (text to speech). See the Piper voices
+  repository for the voice's licence.
+- sherpa-onnx keyword spotter, voice activity detector (Silero VAD, MIT),
+  punctuation model (Edge-Punct-Casing) and runtime. Apache License 2.0.
+- 3D-Speaker CAM++ speaker recognition model (voice security). Apache License 2.0.
+- ONNX Runtime (Microsoft). MIT License.
+- CMU Pronouncing Dictionary derived word list. BSD-style licence.
+
+RUNTIME
+- llama.cpp / ggml (llama-server). MIT License.
+- LLVM OpenMP runtime (libomp). See licenses\LICENSE-LLVM-OpenMP.
+- Flutter engine and framework (Google). BSD 3-Clause License.
+- Microsoft Visual C++ Runtime (vcruntime140, msvcp140, concrt140), included
+  under the Microsoft Visual C++ Redistributable licence terms.
+
+NEON
+Neon's own programs, its router agent and AI-writing detector are
+Copyright (c) 2026 Sazzad. All rights reserved. They are licensed under the
+Neon End User Licence Agreement, not under the licences above.

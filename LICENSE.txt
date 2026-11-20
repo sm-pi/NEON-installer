@@ -1,0 +1,115 @@
+NEON - END USER LICENCE AGREEMENT
+Version 1.0, 20 November 2026
+
+Copyright (c) 2026 Sazzad. All rights reserved.
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY CLICKING "I ACCEPT THE AGREEMENT",
+INSTALLING OR USING NEON, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, DO
+NOT INSTALL OR USE NEON.
+
+1. ABOUT THIS AGREEMENT
+This agreement is between you and Sazzad (the "Licensor") about Neon, an
+offline voice assistant for Windows, including its installer, programs,
+Neon's own trained models (its router agent and AI-writing detector),
+documentation and updates (together, the "Software"). The Software is
+licensed, not sold. The source code is not part of the Software and is not
+licensed to you.
+
+2. WHAT YOU MAY DO
+Subject to this agreement, the Licensor grants you a free, personal,
+non-exclusive, non-transferable, revocable licence to install and use the
+Software on computers that you own or control, for your personal or internal
+use.
+
+3. WHAT YOU MAY NOT DO
+You may not, and may not allow anyone else to:
+ a) copy the Software, except to install it as allowed above and to keep one
+    backup copy of the installer;
+ b) distribute, publish, sell, rent, lend, sublicense or otherwise make the
+    Software available to others, except by pointing them to the Licensor's
+    official download page;
+ c) reverse engineer, decompile, disassemble, decrypt or otherwise try to
+    obtain the source code, design or models of the Software, except to the
+    extent that the law where you live allows this despite this restriction;
+ d) modify, adapt, translate or create works based on the Software;
+ e) remove or change any copyright, licence or ownership notices;
+ f) use the Software to break any law, to harm others, or to control a
+    computer, account or device without its owner's permission.
+
+4. THIRD-PARTY COMPONENTS
+The Software includes open models and libraries made by others (for example
+Google's Gemma models, Alibaba's Qwen models, NVIDIA's Parakeet speech
+models, llama.cpp, sherpa-onnx, ONNX Runtime and Flutter). Each is provided
+under its own licence, listed in the "Third-party notices" shown during
+installation and saved in the "licenses" folder. Those licences apply to
+those components and take precedence over this agreement for them. In
+particular, you agree to follow the Gemma Terms of Use and the Gemma
+Prohibited Use Policy.
+
+5. PRIVACY
+ a) Neon runs on your computer. What it hears, the requests you make, the
+    notes, the phrasings and accent corrections it learns, your voiceprint
+    and your settings are kept on your computer, in %APPDATA%\Neon. The
+    Software does not send them to the Licensor or anyone else, and contains
+    no tracking or telemetry.
+ b) Neon uses the internet only when you ask it to: for example to open a
+    website, search the web, or use a web service such as WhatsApp Web,
+    Google Docs or Messenger. Those services have their own terms and
+    privacy policies.
+ c) Voice security stores voiceprints (a numerical description of a voice)
+    and passwords as one-way scrambled codes, on your computer only. Only
+    enrol people who agree to it.
+
+6. ACTIONS NEON TAKES FOR YOU
+Neon can control your computer when you ask it to: open and close programs,
+type, click, move or delete files, send messages, download, install
+programs, shut down or restart the computer. It asks for confirmation before
+actions that send, delete or end things, but speech recognition and AI can
+misunderstand. You are responsible for the actions you ask for and confirm,
+and for checking important results.
+
+7. VOICE SECURITY WARNING
+If voice security is turned on and three attempts to identify a user fail,
+the Software can shut down the computer IMMEDIATELY, closing programs WITHOUT
+SAVING YOUR WORK. You can choose "lock only" in Settings instead. By turning
+voice security on, you accept this risk. Voice security makes casual misuse
+harder; it is not a complete protection against a determined attacker (for
+example, someone with a recording of your voice or physical access to your
+computer).
+
+8. AI OUTPUT
+Answers, documents, corrections and other content produced by the Software
+may be inaccurate, incomplete or inappropriate. Do not rely on them for
+medical, legal, financial or safety decisions.
+
+9. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE
+WILL BE ERROR-FREE OR WORK WITHOUT INTERRUPTION.
+
+10. LIMITATION OF LIABILITY
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS
+OF DATA, WORK, PROFITS OR USE, ARISING FROM THE SOFTWARE OR THIS AGREEMENT,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Some places do not allow
+these limits, so they may not fully apply to you.
+
+11. UPDATES
+The Licensor may provide updates. This agreement applies to them unless they
+come with a different agreement.
+
+12. ENDING THIS AGREEMENT
+This agreement lasts until it ends. It ends automatically if you break it.
+You may end it at any time by uninstalling the Software. When it ends, you
+must stop using the Software and delete it. Sections 3, 5 to 10 and 13
+continue after it ends.
+
+13. GENERAL
+This agreement is governed by the laws of Bangladesh. If any part of it
+cannot be enforced, the rest stays in effect. It is the whole agreement
+between you and the Licensor about the Software. All rights not expressly
+granted are reserved by the Licensor.
+
+Questions about this agreement: contact the Licensor through the official
+Neon download page.

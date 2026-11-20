@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Install guide
+    url: https://github.com/sm-pi/NEON-installer/blob/main/docs/INSTALL.md
+    about: Installing, updating and uninstalling Neon
+  - name: Troubleshooting
+    url: https://github.com/sm-pi/NEON-installer/blob/main/docs/TROUBLESHOOTING.md
+    about: Answers to common problems; please check here first
